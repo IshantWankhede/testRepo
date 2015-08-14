@@ -1,4 +1,4 @@
-public class HelloWorldNewBranch{
+public class HelloWorld{
 	public void main(){
 	System.out.print("HelloWorld");
 	}
